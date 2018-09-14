@@ -1,0 +1,30 @@
+{
+  "name": "discord-last-fm",
+  "version": "1.0.0",
+  "description": "A Last.fm integration for Discord.",
+  "main": "src/index",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "eslint src",
+    "fix": "eslint --fix src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaequitas/discord-last-fm.git"
+  },
+  "keywords": [
+    "last.fm",
+    "discord",
+    "last",
+    "fm"
+  ],
+  "author": "vaequitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaequitas/discord-last-fm/issues"
+  },
+  "homepage": "https://github.com/vaequitas/discord-last-fm#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
+}

@@ -26,5 +26,8 @@
   "homepage": "https://github.com/vaequitas/discord-last-fm#readme",
   "devDependencies": {
     "eslint": "^5.5.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2"
   }
 }
